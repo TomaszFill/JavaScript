@@ -1,0 +1,7 @@
+
+.slider li{
+  list-style-type: none;
+}
+.slider .visible{
+    display: inline-block;
+}
